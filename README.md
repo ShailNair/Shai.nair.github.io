@@ -1,2 +1,2 @@
-# Shai.nair.github.io
+# Shail.nair.github.io
 personal website
