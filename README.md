@@ -1,2 +1,2 @@
-# https://Shail.Nair.github.io
+# https://shailnair.github.io
 personal website
